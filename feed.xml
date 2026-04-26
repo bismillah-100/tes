@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Maktabah</title>
+    <link href="https://bismillah-100.github.io/tes/feed.xml" rel="self" />
+    <link href="https://bismillah-100.github.io/tes" />
+    <updated>2026-04-27T00:34:44+07:00</updated>
+    <author>
+        <name>bismillah-100</name>
+    </author>
+    <id>https://bismillah-100.github.io/tes</id>
+
+    <entry>
+        <title>Books Request</title>
+        <author>
+            <name>bismillah-100</name>
+        </author>
+        <link href="https://bismillah-100.github.io/tes/books-request.html"/>
+        <id>https://bismillah-100.github.io/tes/books-request.html</id>
+
+        <updated>2026-04-27T00:34:44+07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    In order to keep the application in the Aswaja corridor, the application may only contain books that have been verified by the developer. To make&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>In order to keep the application in the Aswaja corridor, the application may only contain books that have been verified by the developer. To make a book request, you can contact via email <a href="mailto:dev.kbcdrn@gmail.com">dev.kbcdrn@gmail.com</a> with the subject "Book Request".</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Kitab</title>
+        <author>
+            <name>bismillah-100</name>
+        </author>
+        <link href="https://bismillah-100.github.io/tes/kitab.html"/>
+        <id>https://bismillah-100.github.io/tes/kitab.html</id>
+
+        <updated>2026-04-27T00:20:04+07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Kitab yang dapat diunduh di Aplikasi disimpan di server GitHub-Kitab Repo. Data Kitab diunggah ke GitHub-Releases. Semua ID Kitab telah diindeks dalam format .json yang&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Kitab yang dapat diunduh di Aplikasi disimpan di server GitHub-<a href="https://github.com/bismillah-100/Kitab" target="_blank" rel="noopener noreferrer">Kitab Repo</a>.</p>
+<p>Data Kitab diunggah ke GitHub-Releases. Semua ID Kitab telah diindeks dalam format .json yang tersedia di repo.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

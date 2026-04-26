@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bismillah-100.github.io/tes/sitemap.xml

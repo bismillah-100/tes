@@ -3,12 +3,96 @@
     <title>Maktabah</title>
     <link href="https://bismillah-100.github.io/tes/feed.xml" rel="self" />
     <link href="https://bismillah-100.github.io/tes" />
-    <updated>2026-04-27T00:34:44+07:00</updated>
+    <updated>2026-04-27T00:50:53+07:00</updated>
     <author>
         <name>bismillah-100</name>
     </author>
     <id>https://bismillah-100.github.io/tes</id>
 
+    <entry>
+        <title>Releases Notes</title>
+        <author>
+            <name>bismillah-100</name>
+        </author>
+        <link href="https://bismillah-100.github.io/tes/releases-notes.html"/>
+        <id>https://bismillah-100.github.io/tes/releases-notes.html</id>
+
+        <updated>2026-04-27T00:50:53+07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Version 2.1.2 April 26, 2026 April 18, 2026 April 12, 2026 April 6, 2026 New Notarized Apple Developer Direct in-app updates now supported Full database&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Version 2.1.2</h2>
+<p class="version">April 26, 2026</p>
+<h3>New</h3>
+<ul>
+<li>Add clickable annotation and extend screen-time menu item in to control menu on menu bar</li>
+<li>Option to disable Auto Check Updates on Settings</li>
+<li>Restore latest selected sorting/grouping options on annotation tree</li>
+</ul>
+<h3>Fixes</h3>
+<ul>
+<li>Contextual highlight menu now reflect on RTL mode</li>
+<li>Misplaced annotation view control buttons constraints on sequoia and earlier</li>
+</ul>
+<hr>
+<h2>Version 2.1.1</h2>
+<p class="version">April 18, 2026</p>
+<h3>Fixes</h3>
+<ul>
+<li>Book titles now appear in annotations when grouped by tags</li>
+<li>Fixed page and part not displayed when add annotation</li>
+<li>Fixed a bug with the switch mode state in the toolbar when opening multiple windows</li>
+<li>Restore last search field state in the sidebar on app launch</li>
+<li>Under-the-hood improvements to reader state management for a smoother experience</li>
+</ul>
+<hr>
+<h2>Version 2.1</h2>
+<p class="version">April 12, 2026</p>
+<h3>New</h3>
+<ul>
+<li>Add tagging system to annotations with completion suggestions</li>
+</ul>
+<h3>Changes</h3>
+<ul>
+<li>Highlight Arabic phrases and common symbols in text view</li>
+<li>Refactor annotations panel to use titlebar accessory view</li>
+<li>Refactor bulk download search field</li>
+</ul>
+<h3>Fixes</h3>
+<ul>
+<li>Fix Quran verse reselection on tafseer change</li>
+<li>Fix misplaced search query highlighting</li>
+<li>Fix font remapping (Al Bayan, remove Al Nile)</li>
+<li>Fix search field appearance in split view accessory</li>
+</ul>
+<hr>
+<h2>Version 2.0</h2>
+<p class="version">April 6, 2026</p>
+<h3>New</h3>
+<ul>
+<li>Notarized Apple Developer</li>
+<li>Direct in-app updates now supported</li>
+<li>Full database are not required</li>
+<li>Options to use installed font on system</li>
+<li>Parse and highlight {}, [], and () ibarot ranges</li>
+<li>On Demand Book Download</li>
+<li>Download Multiple Books at once</li>
+<li>App Settings Management</li>
+<li>Place Sidebar SearchField into splitViewItemAccessory</li>
+</ul>
+<h3>Fixes</h3>
+<ul>
+<li>Avoid adding .trackingSeparator into toolbar when using RTL locale</li>
+<li>borderShape buttons in macOS Tahoe</li>
+<li>Search on Current-Book after state restore</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Books Request</title>
         <author>

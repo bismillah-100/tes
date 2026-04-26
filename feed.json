@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://bismillah-100.github.io/tes/releases-notes-2.html",
-            "url": "https://bismillah-100.github.io/tes/releases-notes-2.html",
+            "id": "https://bismillah-100.github.io/tes/releases-notes.html",
+            "url": "https://bismillah-100.github.io/tes/releases-notes.html",
             "title": "Releases Notes",
             "summary": "Version 2.1.2 April 26, 2026 April 18, 2026 April 12, 2026 April 6, 2026 New Notarized Apple Developer Direct in-app updates now supported Full database&hellip;",
             "content_html": "<h2>Version 2.1.2</h2>\n<p class=\"version\">April 26, 2026</p>\n<h3>New</h3>\n<ul>\n<li>Add clickable annotation and extend screen-time menu item in to control menu on menu bar</li>\n<li>Option to disable Auto Check Updates on Settings</li>\n<li>Restore latest selected sorting/grouping options on annotation tree</li>\n</ul>\n<h3>Fixes</h3>\n<ul>\n<li>Contextual highlight menu now reflect on RTL mode</li>\n<li>Misplaced annotation view control buttons constraints on sequoia and earlier</li>\n</ul>\n<hr>\n<h2>Version 2.1.1</h2>\n<p class=\"version\">April 18, 2026</p>\n<h3>Fixes</h3>\n<ul>\n<li>Book titles now appear in annotations when grouped by tags</li>\n<li>Fixed page and part not displayed when add annotation</li>\n<li>Fixed a bug with the switch mode state in the toolbar when opening multiple windows</li>\n<li>Restore last search field state in the sidebar on app launch</li>\n<li>Under-the-hood improvements to reader state management for a smoother experience</li>\n</ul>\n<hr>\n<h2>Version 2.1</h2>\n<p class=\"version\">April 12, 2026</p>\n<h3>New</h3>\n<ul>\n<li>Add tagging system to annotations with completion suggestions</li>\n</ul>\n<h3>Changes</h3>\n<ul>\n<li>Highlight Arabic phrases and common symbols in text view</li>\n<li>Refactor annotations panel to use titlebar accessory view</li>\n<li>Refactor bulk download search field</li>\n</ul>\n<h3>Fixes</h3>\n<ul>\n<li>Fix Quran verse reselection on tafseer change</li>\n<li>Fix misplaced search query highlighting</li>\n<li>Fix font remapping (Al Bayan, remove Al Nile)</li>\n<li>Fix search field appearance in split view accessory</li>\n</ul>\n<hr>\n<h2>Version 2.0</h2>\n<p class=\"version\">April 6, 2026</p>\n<h3>New</h3>\n<ul>\n<li>Notarized Apple Developer</li>\n<li>Direct in-app updates now supported</li>\n<li>Full database are not required</li>\n<li>Options to use installed font on system</li>\n<li>Parse and highlight {}, [], and () ibarot ranges</li>\n<li>On Demand Book Download</li>\n<li>Download Multiple Books at once</li>\n<li>App Settings Management</li>\n<li>Place Sidebar SearchField into splitViewItemAccessory</li>\n</ul>\n<h3>Fixes</h3>\n<ul>\n<li>Avoid adding .trackingSeparator into toolbar when using RTL locale</li>\n<li>borderShape buttons in macOS Tahoe</li>\n<li>Search on Current-Book after state restore</li>\n</ul>",
@@ -20,8 +20,8 @@
             },
             "tags": [
             ],
-            "date_published": "2026-04-27T00:55:57+07:00",
-            "date_modified": "2026-04-27T00:56:28+07:00"
+            "date_published": "2026-04-27T01:03:23+07:00",
+            "date_modified": "2026-04-27T01:03:23+07:00"
         },
         {
             "id": "https://bismillah-100.github.io/tes/books-request.html",
